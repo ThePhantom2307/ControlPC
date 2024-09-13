@@ -1,5 +1,6 @@
 # ControlPC
 Control your pc from phone
+NOTE: the application is not available for the public yet
 
 ## Download
 Download the executable file and you are ready or download the C file and compile it using gcc compiler
@@ -18,5 +19,3 @@ start/stop server, show/hide console, exit from program. Use the android app for
 
 ## Usage of android app
 The only thing you have to do is to press the buttons to send the commands on your pc or add application/websites in applications.
-
-NOTE: the application is not available for the public yet
