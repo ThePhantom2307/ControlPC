@@ -1,6 +1,6 @@
 # ControlPC
 Control your pc from phone<br><br>
-NOTE: the application is not available for the public yet, but you can join the close testing by clicking the link below
+NOTE: the application is not available for the public yet, but you can join the close testing by clicking the links below
 
 Link your account to access the app: https://groups.google.com/g/controlpc-testers<br>
 Participation through website: https://play.google.com/apps/testing/com.thephantom.controlpc<br>
