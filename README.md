@@ -1,5 +1,5 @@
 # ControlPC
-Control your pc from phone<br>
+Control your pc from phone<br><br>
 NOTE: the application is not available for the public yet, but you can join the close testing by clicking the link below
 
 Link your account to access the app: https://groups.google.com/g/controlpc-testers<br>
