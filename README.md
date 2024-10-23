@@ -7,7 +7,7 @@ Participation through website: https://play.google.com/apps/testing/com.thephant
 Participation through android device: https://play.google.com/store/apps/details?id=com.thephantom.controlpc <br>
 
 ## Download
-Download the executable file and you are ready or download the C file and compile it using gcc compiler
+Download the "Executable" folder and you are ready or download the C file and compile it using gcc compiler
 
 ## Usage of windows program
 When you execute the program it will start running in background. All action can be done by the tray icon.
