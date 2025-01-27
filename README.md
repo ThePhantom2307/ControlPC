@@ -1,6 +1,6 @@
 # ControlPC
 Control your pc from phone<br><br>
-Download the client version of the app on android
+Download the client version of the app on android <br>
 Link: https://play.google.com/store/apps/details?id=com.thephantom.controlpc&pcampaignid=web_share
 
 ## Download
