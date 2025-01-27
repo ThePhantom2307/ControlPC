@@ -1,10 +1,7 @@
 # ControlPC
 Control your pc from phone<br><br>
-NOTE: the application is not available for the public yet, but you can join the close testing by clicking the links below
-
-Link your account to access the app: https://groups.google.com/g/controlpc-testers<br>
-Participation through website: https://play.google.com/apps/testing/com.thephantom.controlpc<br>
-Participation through android device: https://play.google.com/store/apps/details?id=com.thephantom.controlpc <br>
+Download the client version of the app on android
+Link: https://play.google.com/store/apps/details?id=com.thephantom.controlpc&pcampaignid=web_share
 
 ## Download
 Download the "Executable" folder and you are ready or download the C file and compile it using gcc compiler
