@@ -12,6 +12,3 @@ start/stop server, show/hide console, exit from program. Use the android app for
 
 ## Usage of android app
 The only thing you have to do is to press the buttons to send the commands on your pc or add application/websites in applications.
-
-## Note For Windows 11 Users
-To allow the server-side to hide without minimizing only the command prompt on Windows 11, go to Settings > System > For Developers > Terminal and set it to Windows Console Host.
